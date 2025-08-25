@@ -13,20 +13,6 @@ The goal is to uncover insights on **sales trends, customer behavior, and produc
 
 ---
 
-## 📂 Repository Structure  
-Blinkit-data-analysis/
-├─ SQL_QUERIES/
-│ └─ blinkit_data_script.sql
-├─ DASHBOARD/
-│ └─ BlinkIt.pbix
-├─ IMAGES/
-│ ├─ BlinkIt_main_dashboard.png
-│ └─ BlinkIt_2.png
-└─ README.md
-
-
----
-
 ## 📊 Dashboard Preview  
 Main Dashboard:  
 ![Blinkit Dashboard](data_analysis/IMAGES/Blinkit_Dashboard1.png)
@@ -36,8 +22,16 @@ Additional View:
 
 ---
 
+## 📊 Dashboard
+PowerBI Dashboard -->[Click_here](data_analysis/DASHBOARD/BlinkIt.pbix)
+
 ## 📑 SQL Queries  
 The SQL queries used for cleaning, transforming, and analyzing data are available [here](data_analysis/SQL_QUERIES/blinkit_data_script.sql).  
+
+---
+
+##  📑 SQL Queries 
+The explanation and query that is used to perform data analysis are available [here](data_analysis/SQL_QUERIES/sql_analysis_txt).
 
 ---
   📈 Key Insights
