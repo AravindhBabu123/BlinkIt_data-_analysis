@@ -25,6 +25,8 @@ Additional View:
 ## 📊 Dashboard
 PowerBI Dashboard -->[Click_here](data_analysis/DASHBOARD/BlinkIt.pbix)
 
+---
+
 ## 📑 SQL Queries  
 The SQL queries used for cleaning, transforming, and analyzing data are available [here](data_analysis/SQL_QUERIES/blinkit_data_script.sql).  
 
@@ -58,4 +60,6 @@ Enhancing dashboard with more drill-through analysis
 
 🔗 LinkedIn:www.linkedin.com/in/aravindh-babu-3a6341295
 
- | GitHub
+ | GitHub : AravindhBabu123
+
+ Thank you!!
