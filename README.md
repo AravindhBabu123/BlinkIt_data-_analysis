@@ -29,15 +29,15 @@ Blinkit-data-analysis/
 
 ## 📊 Dashboard Preview  
 Main Dashboard:  
-![Blinkit Dashboard]
+![Blinkit Dashboard](data_analysis/IMAGES/Blinkit_Dashboard1.png)
 
 Additional View:  
-![Blinkit Dashboard 2]
+![Blinkit Dashboard 2](data_analysis/IMAGES/Blinkit_Dashboard2.png)
 
 ---
 
 ## 📑 SQL Queries  
-The SQL queries used for cleaning, transforming, and analyzing data are available [here](./SQL_QUERIES/blinkit_data_script.sql).  
+The SQL queries used for cleaning, transforming, and analyzing data are available [here](data_analysis/SQL_QUERIES/blinkit_data_script.sql).  
 
 ---
   📈 Key Insights
